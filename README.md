@@ -28,3 +28,8 @@ pip install -r requirements.txt
 
 # 3️⃣ Run the app
 python app.py
+## 🖥️ App Preview
+
+Here’s how the DeepAura Streamlit app looks:
+
+![DeepAura Streamlit App](Screenshot%202025-11-02%20at%206.24.55 PM.png)
