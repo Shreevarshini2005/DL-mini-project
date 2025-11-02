@@ -26,10 +26,15 @@ source deepaura_env/bin/activate
 # 2️⃣ Install dependencies
 pip install -r requirements.txt
 
-# 3️⃣ Run the app
-python app.py
-## 🖥️ App Preview
+---
 
-Here’s how the DeepAura Streamlit app looks:
+## 🚀 Streamlit App Setup
 
-![DeepAura Streamlit App](Screenshot%202025-11-02%20at%206.24.55 PM.png)
+To run the app locally:
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
+
+
+
