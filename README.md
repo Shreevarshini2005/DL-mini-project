@@ -35,6 +35,20 @@ To run the app locally:
 pip install -r requirements.txt
 streamlit run app.py
 
+---
+
+## 📂 Dataset Information
+
+The **MBTI dataset** used in this project is **not included** in the repository due to file size limitations.  
+However, **screenshots of the dataset** have been uploaded to provide a clear reference of the data used for training and testing.
+
+---
+
+
+
+
+
+
 
 
 
